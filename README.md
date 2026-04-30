@@ -1,3 +1,1 @@
-Student
-Neuroscience Major
-GMU
+Student at GMU, Neuroscience Major
