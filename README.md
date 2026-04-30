@@ -1,2 +1,3 @@
-# Python-Projects
-Projects I've done in Python Code
+Student
+Neuroscience Major
+GMU
